@@ -1,0 +1,22 @@
+{
+  "Title": "Edytor kart GWINT",
+  "Open": "Otwórz klienta GWENT",
+  "Export": "Eksportuj",
+  "Undo": "Cofnij",
+  "Reset": "Resetuj wszystko",
+  "Appearance": "Wygląd",
+  "Name": "Nazwa",
+  "Power": "Siła",
+  "Armor": "Pancerz",
+  "Provision": "Koszt werbunku",
+  "Rarity": "Rzadkość",
+  "Ability": "Umiejętność",
+  "Cancel": "Anuluj",
+  "MainCards": "Karty",
+  "Symbols": "Żetony",
+  "AllCards": "Wszystkie",
+  "Sort": "Sortowanie",
+  "Light": "Jasny",
+  "Dark": "Ciemny",
+  "Font": "Czcionka"
+}

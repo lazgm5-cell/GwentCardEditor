@@ -1,0 +1,22 @@
+{
+  "Title": "GWENT-Karteneditor",
+  "Open": "GWENT-Client öffnen",
+  "Export": "Exportieren",
+  "Undo": "Rückgängig",
+  "Reset": "Alles zurücksetzen",
+  "Appearance": "Darstellung",
+  "Name": "Name",
+  "Power": "Stärke",
+  "Armor": "Rüstung",
+  "Provision": "Rekrutierungskosten",
+  "Rarity": "Seltenheit",
+  "Ability": "Fähigkeit",
+  "Cancel": "Abbrechen",
+  "MainCards": "Karten",
+  "Symbols": "Spielsteine",
+  "AllCards": "Alle",
+  "Sort": "Sortieren",
+  "Light": "Hell",
+  "Dark": "Dunkel",
+  "Font": "Schrift"
+}

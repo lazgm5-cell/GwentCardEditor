@@ -1,0 +1,22 @@
+{
+  "Title": "Editor di carte GWENT",
+  "Open": "Apri il client GWENT",
+  "Export": "Esporta",
+  "Undo": "Annulla",
+  "Reset": "Reimposta tutto",
+  "Appearance": "Aspetto",
+  "Name": "Nome",
+  "Power": "Forza",
+  "Armor": "Armatura",
+  "Provision": "Costo di reclutamento",
+  "Rarity": "Rarità",
+  "Ability": "Abilità",
+  "Cancel": "Annulla",
+  "MainCards": "Carte",
+  "Symbols": "Pedine",
+  "AllCards": "Tutte",
+  "Sort": "Ordina",
+  "Light": "Chiaro",
+  "Dark": "Scuro",
+  "Font": "Carattere"
+}

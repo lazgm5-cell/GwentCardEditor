@@ -1,0 +1,22 @@
+{
+  "Title": "昆特牌卡牌編輯器",
+  "Open": "開啟 GWENT 客戶端",
+  "Export": "匯出",
+  "Undo": "復原",
+  "Reset": "全部重設",
+  "Appearance": "外觀",
+  "Name": "名稱",
+  "Power": "戰力",
+  "Armor": "護甲",
+  "Provision": "人口",
+  "Rarity": "稀有度",
+  "Ability": "技能",
+  "Cancel": "取消",
+  "MainCards": "卡牌",
+  "Symbols": "衍生物",
+  "AllCards": "全部",
+  "Sort": "排序",
+  "Light": "淺色",
+  "Dark": "深色",
+  "Font": "字型"
+}

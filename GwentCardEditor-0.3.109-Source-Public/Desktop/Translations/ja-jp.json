@@ -1,0 +1,22 @@
+{
+  "Title": "グウェント カードエディター",
+  "Open": "GWENTクライアントを開く",
+  "Export": "エクスポート",
+  "Undo": "元に戻す",
+  "Reset": "すべてリセット",
+  "Appearance": "外観",
+  "Name": "名前",
+  "Power": "戦力",
+  "Armor": "アーマー",
+  "Provision": "構築コスト",
+  "Rarity": "レアリティ",
+  "Ability": "アビリティ",
+  "Cancel": "キャンセル",
+  "MainCards": "カード",
+  "Symbols": "トークン",
+  "AllCards": "すべて",
+  "Sort": "並べ替え",
+  "Light": "ライト",
+  "Dark": "ダーク",
+  "Font": "フォント"
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Éditeur de cartes GWENT",
+  "Open": "Ouvrir le client GWENT",
+  "Export": "Exporter",
+  "Undo": "Annuler",
+  "Reset": "Tout réinitialiser",
+  "Appearance": "Apparence",
+  "Name": "Nom",
+  "Power": "Puissance",
+  "Armor": "Armure",
+  "Provision": "Coût de recrutement",
+  "Rarity": "Rareté",
+  "Ability": "Capacité",
+  "Cancel": "Annuler",
+  "MainCards": "Cartes",
+  "Symbols": "Jetons",
+  "AllCards": "Toutes",
+  "Sort": "Trier",
+  "Light": "Clair",
+  "Dark": "Sombre",
+  "Font": "Police"
+}

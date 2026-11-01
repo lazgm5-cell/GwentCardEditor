@@ -1,0 +1,22 @@
+{
+  "Title": "궨트 카드 편집기",
+  "Open": "GWENT 클라이언트 열기",
+  "Export": "내보내기",
+  "Undo": "실행 취소",
+  "Reset": "모두 초기화",
+  "Appearance": "모양",
+  "Name": "이름",
+  "Power": "전력",
+  "Armor": "방어구",
+  "Provision": "유지비",
+  "Rarity": "희귀도",
+  "Ability": "능력",
+  "Cancel": "취소",
+  "MainCards": "카드",
+  "Symbols": "토큰",
+  "AllCards": "전체",
+  "Sort": "정렬",
+  "Light": "밝게",
+  "Dark": "어둡게",
+  "Font": "글꼴"
+}
