@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Origin": "GWENT: Rogue Mage",
+  "Frames": {
+    "bronze": {
+      "Sha256": "51e834fdd85cede912c8b72c963e04a0fd82fed27aa51cb288c951c0e1184487",
+      "Source": "bundledassets/vanityassets/cardborders/20820480",
+      "SourceSha256": "2f1e430faa116e32c2c68ca7c0baaf8dcd5b508377e67eda60f1abd3bb97370b",
+      "Pixels": "3334d00657258453d01170f548ab18bc091166f1b120a9de64cd680e824ff949"
+    },
+    "2083": {
+      "Sha256": "29e87868a7599c3b96f251fa992454f086696dfdb9ec8927b045512d6dc85252",
+      "Source": "bundledassets/vanityassets/cardborders/20830480",
+      "SourceSha256": "4f59fe3f5a80db4faf4f2c6952f5a9a073b1acc43d875280640fbddb3c1f9a78",
+      "Pixels": "9c5513885233f73756b8c1fe4a58664a1a2e11a93d68607fe0d41577304840e5"
+    },
+    "2086": {
+      "Sha256": "fedf28e75b0b6fae548b757dcf1111c51ed22f6f0159ec89c369bb6538e89736",
+      "Source": "bundledassets/vanityassets/cardborders/20860480",
+      "SourceSha256": "314c994171232886347218451d56b57ba34f7f39f5b3a77b369ca55f85777837",
+      "Pixels": "6b15081a4abad1aca1ec3983cdfa9f2e16ce0a918160a753a928ad1652b3ab67"
+    },
+    "2088": {
+      "Sha256": "352d357b0d147d34035e7120e51697a74d56156500076c31c942182cea0b9980",
+      "Source": "bundledassets/vanityassets/cardborders/20880480",
+      "SourceSha256": "9579186fe005a27e86e1a09d8afb6f36aa0ffa1255333e96bcbc5b4f47b3333c",
+      "Pixels": "eebca3620687db99923699de59da29dc7d7f44f2612dac9e7dd4e4cd38d72291"
+    },
+    "2087": {
+      "Sha256": "19bde32c3d84651dee1f3f50e0716e86d069f2f1802599a63991818f49e62530",
+      "Source": "bundledassets/vanityassets/cardborders/20870480",
+      "SourceSha256": "b1bd720c0b53462e198aab8d1a207cd68d1614da1fcd104b7e224dbc4c614251",
+      "Pixels": "52521d78f35c73b3f888b1461f3ec3dd974023d6ca83c63268e592df802528fe",
+      "Composition": "left then right, alpha composite; static only; no flame/eye shaders"
+    }
+  }
+}
