@@ -402,7 +402,7 @@ Availability и данные коллекции в игре не изменяю�
 
 ## English
 
-Download: [Windows x64 build](https://github.com/lazgm5-cell/GwentCardEditor/raw/refs/heads/main/GwentCardEditor-0.3.123-Beta-Windows-x64.zip) · [source archive](https://github.com/lazgm5-cell/GwentCardEditor/raw/refs/heads/main/GwentCardEditor-0.3.123-Source.zip).
+Source code: [version 0.3.123](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.123-Source-Public). The Windows x64 archive will be published separately as a GitHub Release asset.
 
 The Art tab imports still PNG/JPEG/WebP images with crop/pan/zoom preview, a separate
 backup package, explicit installation and restoration. Premium assets stay unchanged.
@@ -441,7 +441,7 @@ Validation is not a guarantee of every gameplay interaction. Use a separate GWEN
 
 ## 简体中文
 
-下载：[Windows x64 程序包](https://github.com/lazgm5-cell/GwentCardEditor/raw/refs/heads/main/GwentCardEditor-0.3.123-Beta-Windows-x64.zip) · [源代码压缩包](https://github.com/lazgm5-cell/GwentCardEditor/raw/refs/heads/main/GwentCardEditor-0.3.123-Source.zip)。
+源代码：[0.3.123 版本](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.123-Source-Public)。Windows x64 程序包将单独作为 GitHub Release 附件发布。
 
 插画选项卡支持静态 PNG/JPEG/WebP 图片，可预览裁剪、移动和缩放，单独保存包含备份的资源包，并确认安装或恢复。外观设置可分别为全部铜卡和金卡替换边框；卡背可单独替换，也可一次替换全部七款受支持的标准卡背，并保留备份和回滚。动画及其他卡背不变。完整版本包含 ArtRuntime，无需另外安装 Python。
 
