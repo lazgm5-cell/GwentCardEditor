@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Releases": [
+    {
+      "Version": "0.2.0",
+      "Files": {
+        "assets/textures/-1985680848538379986.png": "190aaaabf99f91fa131fd38b38093971884537dfb3d514a0a12c35c712ddbcdc",
+        "assets/textures/-593248420043725725.png": "0076810095050e39ea09e3dd911e25a5a3711bb5357eef41ad5f194def160db3",
+        "assets/textures/4974601936535909616.png": "71f718ac66879f2f24a45792bac197f79c57df28bd40cf297a4ceb5813071486",
+        "assets/textures/5654814437984703768.png": "bf306eb1407abc8c0b5f0ce006c58771ddd96655de63774830839c5204b0df5b",
+        "assets/textures/-1436412703761287052.png": "13f858ddbc0fda71ffdd0591ed1e71b43719ff4bcce69672ef7eabedee0f5cd2",
+        "assets/textures/-43137523323442226.png": "c136973060390da43d120c5647ea26237e422cf8eda8933f9599b9fc542c9c97",
+        "assets/scene.json": "16e95bb182b56f4b188eeb024cd35b739df81b76fd125705a448fc38b51eb799",
+        "assets/textures/6719958928309853350.png": "c4295b0a00eba778f866073f0bebc3d96aa40862b26d7df86a867b03d62f7c05",
+        "GwentCardEditor.FieryFiend.Experimental.dll": "74bb9b36ce09d46ee33f71f827e56ab400a958035f78b697a06d03626a8b5ba6",
+        "assets/textures/-4210385997605371657.png": "b700f64b184f4689315d40b2d70fb57b4c4776cdfa8bdac6df2b14bd4a96e812",
+        "assets/textures/-3816213168468709122.png": "62d1cc2c05a7c060bd088f2021b706c96afd0eda4da99f624b9e9d018174fc30",
+        "assets/textures/-1633395239367107374.png": "dc67e373e5657e1c9dc1c5a1257b1e00cfea9ee4ce20cb9dd5a455612e834100"
+      }
+    },
+    {
+      "Version": "0.1.1",
+      "Files": {
+        "assets/textures/-1985680848538379986.png": "190aaaabf99f91fa131fd38b38093971884537dfb3d514a0a12c35c712ddbcdc",
+        "assets/textures/-593248420043725725.png": "0076810095050e39ea09e3dd911e25a5a3711bb5357eef41ad5f194def160db3",
+        "assets/textures/4974601936535909616.png": "71f718ac66879f2f24a45792bac197f79c57df28bd40cf297a4ceb5813071486",
+        "assets/textures/5654814437984703768.png": "bf306eb1407abc8c0b5f0ce006c58771ddd96655de63774830839c5204b0df5b",
+        "assets/textures/-1436412703761287052.png": "13f858ddbc0fda71ffdd0591ed1e71b43719ff4bcce69672ef7eabedee0f5cd2",
+        "assets/textures/-43137523323442226.png": "c136973060390da43d120c5647ea26237e422cf8eda8933f9599b9fc542c9c97",
+        "assets/scene.json": "16e95bb182b56f4b188eeb024cd35b739df81b76fd125705a448fc38b51eb799",
+        "assets/textures/6719958928309853350.png": "c4295b0a00eba778f866073f0bebc3d96aa40862b26d7df86a867b03d62f7c05",
+        "GwentCardEditor.FieryFiend.Experimental.dll": "dc32512dd3624fe1265bd49898693029622c9c6d92552fdf4351072f927535da",
+        "assets/textures/-4210385997605371657.png": "b700f64b184f4689315d40b2d70fb57b4c4776cdfa8bdac6df2b14bd4a96e812",
+        "assets/textures/-3816213168468709122.png": "62d1cc2c05a7c060bd088f2021b706c96afd0eda4da99f624b9e9d018174fc30",
+        "assets/textures/-1633395239367107374.png": "dc67e373e5657e1c9dc1c5a1257b1e00cfea9ee4ce20cb9dd5a455612e834100"
+      }
+    }
+  ]
+}
