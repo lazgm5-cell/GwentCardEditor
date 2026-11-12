@@ -2,7 +2,9 @@
 
 ## Скачать
 
-Исходный код: [версия 0.3.124](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.124-Source-Public). Архив Windows x64 подготовлен и будет опубликован отдельным GitHub Release.
+Windows x64: [скачать версию 0.3.124](https://github.com/lazgm5-cell/GwentCardEditor/releases/download/v0.3.124/GwentCardEditor-0.3.124-Beta-Windows-x64.zip) · [исходный код](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.124-Source-Public).
+
+**Лицензия:** оригинальный код редактора предоставляется по MIT (см. [LICENSE](LICENSE)). Она не распространяется на материалы и товарные знаки GWENT/CD PROJEKT RED или сторонние компоненты. Это неофициальная фанатская программа, не одобренная и не поддерживаемая CD PROJEKT RED.
 
 Простой редактор подтверждённых параметров карт и лидеров GWENT.
 Неоднозначные и несовместимые структуры не должны обходиться ручной правкой
@@ -403,7 +405,9 @@ Availability и данные коллекции в игре не изменяю�
 
 ## English
 
-Source code: [version 0.3.124](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.124-Source-Public). The Windows x64 archive is prepared and will be published as a separate GitHub Release.
+Windows x64: [download version 0.3.124](https://github.com/lazgm5-cell/GwentCardEditor/releases/download/v0.3.124/GwentCardEditor-0.3.124-Beta-Windows-x64.zip) · [source code](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.124-Source-Public).
+
+**License:** the editor's original code is licensed under MIT (see [LICENSE](LICENSE)). It does not cover GWENT/CD PROJEKT RED content or trademarks, or third-party components. This is an unofficial fan-made tool and is not approved or endorsed by CD PROJEKT RED.
 
 The Art tab imports still PNG/JPEG/WebP images with crop/pan/zoom preview, a separate
 backup package, explicit installation and restoration. Premium assets stay unchanged.
@@ -442,7 +446,9 @@ Validation is not a guarantee of every gameplay interaction. Use a separate GWEN
 
 ## 简体中文
 
-源代码：[0.3.124 版本](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.124-Source-Public)。Windows x64 程序包已准备好，将单独作为 GitHub Release 发布。
+Windows x64：[下载 0.3.124 版本](https://github.com/lazgm5-cell/GwentCardEditor/releases/download/v0.3.124/GwentCardEditor-0.3.124-Beta-Windows-x64.zip) · [源代码](https://github.com/lazgm5-cell/GwentCardEditor/tree/main/GwentCardEditor-0.3.124-Source-Public)。
+
+**许可证：**编辑器原创代码采用 MIT 许可证（见 [LICENSE](LICENSE)）。该许可证不涵盖 GWENT/CD PROJEKT RED 的内容或商标，也不涵盖第三方组件。本工具为非官方粉丝作品，未经 CD PROJEKT RED 批准或认可。
 
 插画选项卡支持静态 PNG/JPEG/WebP 图片，可预览裁剪、移动和缩放，单独保存包含备份的资源包，并确认安装或恢复。外观设置可分别为全部铜卡和金卡替换边框；卡背可单独替换，也可一次替换全部七款受支持的标准卡背，并保留备份和回滚。动画及其他卡背不变。完整版本包含 ArtRuntime，无需另外安装 Python。
 
